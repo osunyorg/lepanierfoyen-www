@@ -1,2 +1,14 @@
 h1
     color: $color-accent
+.projects__page
+    .hero
+        .container
+            .content
+                @include media-breakpoint-up(desktop)
+                    .hero-text
+                        width: columns(8)
+                    figure
+                        width: columns(4)
+                .project-infos
+                    .year
+                        display: none
