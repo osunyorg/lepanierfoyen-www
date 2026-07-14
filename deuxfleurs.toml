@@ -83,6 +83,10 @@ from = "/producteurs-productrices/2026-fraises/index.html"
 to = "/produits-et-contrats/2026-fraises/"
 
 [[redirects]]
+from = "/produits-et-contrats/fruits/index.html"
+to = "/produits-et-contrats/fruits-et-legumes/"
+
+[[redirects]]
 from = "/producteurs-productrices/2026-creme-de-marron/index.html"
 to = "/produits-et-contrats/2026-creme-de-marron/"
 
