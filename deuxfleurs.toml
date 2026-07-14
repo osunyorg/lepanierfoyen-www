@@ -34,3 +34,11 @@ to = "/produits-et-contrats/2026-brebis/"
 from = "/producteurs-productrices/2026-clementines-de-noel/index.html"
 to = "/produits-et-contrats/2026-clementines-de-noel/"
 
+[[redirects]]
+from = "/producteurs-productrices/2026-fraises/index.html"
+to = "/produits-et-contrats/2026-fraises/"
+
+[[redirects]]
+from = "/producteurs-productrices/2026-creme-de-marron/index.html"
+to = "/produits-et-contrats/2026-creme-de-marron/"
+
