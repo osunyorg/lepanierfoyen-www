@@ -19,6 +19,18 @@ from = "/producteurs-productrices/index.html"
 to = "/produits-et-contrats/"
 
 [[redirects]]
+from = "/producteurs-productrices/2026-agrumes-corses/index.html"
+to = "/produits-et-contrats/2026-agrumes-corses/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/produits-et-contrats/"
+
+[[redirects]]
+from = "/producteurs-productrices/2026-brebis/index.html"
+to = "/produits-et-contrats/2026-brebis/"
+
+[[redirects]]
+from = "/producteurs-productrices/2026-clementines-de-noel/index.html"
+to = "/produits-et-contrats/2026-clementines-de-noel/"
 
