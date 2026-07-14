@@ -9,7 +9,7 @@ breadcrumb_title: >-
 url: "/contact/"
 slug: "contact"
 date: 2026-07-14T08:23:30+02:00
-lastmod: 2026-07-14T08:31:02+02:00
+lastmod: 2026-07-14T10:03:17+02:00
 meta:
   hugo:
     permalink: "/contact/"
@@ -18,7 +18,7 @@ meta:
     slug: "contact"
   dates:
     created_at: 2026-07-14T08:23:30+02:00
-    updated_at: 2026-07-14T08:31:02+02:00
+    updated_at: 2026-07-14T10:03:17+02:00
     published_at: 2026-07-14T08:23:30+02:00
 search:
   id: "5bf9ce0e-9af9-43f1-8cee-0a45455b08e0"
@@ -30,7 +30,7 @@ search:
     Contact
 
   body: >-
-    <p>Distribution  <br> Horaires  <br>Tous les mardis, de 18h à 19h</p>  <p> Adresse  <br>Place de la Halle ou   Halle aux cochons   - Boulevard Larégnère - 33 220 Sainte-Foy-la-Grande</p>  <p>   <br>Plan d'accès au lieu de distribution</p>  <p> Courriel  <br>   <br>Vous avez une question ? Une proposition de nouveau contrat ? Vous pouvez nous écrire à l'adresse : contact@lepanierfoyen.fr</p>
+      <p>Place de la Halle « Halle aux Cochons » - Boulevard Larégnère</p>  <p>33220 <br>Sainte-Foy-la-Grande</p>  <p>Distribution tous les mardis</p>  <p> Plan d'accès  <br>Plan d'accès au lieu de distribution</p>
 
 breadcrumbs:
   - title: >-
@@ -42,7 +42,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: true
+    present: false
     offcanvas: false
 
 
@@ -59,16 +59,64 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 13
+  seconds: 8
   text: >-
     moins d'une minute
 contents:
   - kind: block
-    template: title
+    template: contact
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+
+    data:
+
+
+
+      contact_details:
+        postal_address:
+          data:
+
+            address: >-
+              Place de la Halle « Halle aux Cochons » - Boulevard Larégnère
+
+            zipcode: >-
+              33220
+            city: >-
+              Sainte-Foy-la-Grande
+          text: >-
+            Place de la Halle « Halle aux Cochons » - Boulevard Larégnère 33220 Sainte-Foy-la-Grande
+          html: >-
+            <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">Place de la Halle « Halle aux Cochons » - Boulevard Larégnère</span> <span itemprop="postalCode">33220</span> <span itemprop="addressLocality">Sainte-Foy-la-Grande</span></address>
+        emails:
+          list:
+            - label: >-
+                contact@lepanierfoyen.fr
+              value: >-
+                mailto:contact@lepanierfoyen.fr
+
+      timetable:
+        - 
+          title: >-
+            Distribution tous les mardis
+          time_slot_morning:
+            from: ""
+            to: ""
+          time_slot_afternoon:
+            from: "18:00"
+            to: "19:00"
+
+
+  - kind: block
+    template: image
     title: >-
-      Distribution
+      Plan d'accès
     slug: >-
-      distribution
+      plan-d-acces
     ranks:
       base: 2
       self: 2
@@ -76,73 +124,8 @@ contents:
       active: true
       title: 
         value: >-
-          Distribution
+          Plan d'accès
         heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      Horaires
-    slug: >-
-      horaires
-    ranks:
-      base: 3
-      self: 3
-    top:
-      active: true
-      title: 
-        value: >-
-          Horaires
-        heading: 3
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Tous les mardis, de 18h à 19h</p>
-
-
-
-
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      Adresse
-    slug: >-
-      adresse
-    ranks:
-      base: 3
-      self: 3
-    top:
-      active: true
-      title: 
-        value: >-
-          Adresse
-        heading: 3
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Place de la Halle ou <q> Halle aux cochons </q> - Boulevard Larégnère - 33 220 Sainte-Foy-la-Grande</p>
-
-
-
-
-
-
-  - kind: block
-    template: image
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
 
     data:
 
@@ -150,45 +133,6 @@ contents:
         id: "5293d1a2-a580-4909-a609-820915e87862"
         alt: >-
           Plan d'accès au lieu de distribution
-
-
-
-  - kind: block
-    template: title
-    title: >-
-      Courriel
-    slug: >-
-      courriel
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Courriel
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Vous avez une question ? Une proposition de nouveau contrat ?</p><p>Vous pouvez nous écrire à l'adresse : contact@lepanierfoyen.fr</p>
-
-
-
 
 
 
