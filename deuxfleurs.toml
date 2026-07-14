@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/producteurs-productrices/2026-porc/index.html"
+to = "/produits-et-contrats/2026-porc/"
+
+[[redirects]]
 from = "/producteurs-productrices/index.html"
 to = "/produits-et-contrats/"
 
@@ -24,7 +28,7 @@ to = "/produits-et-contrats/2026-kiwis/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-agrumes-corses/index.html"
-to = "/produits-et-contrats/2026-agrumes-corses/"
+to = "/produits-et-contrats/2026-agrumes/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-pommes/index.html"
@@ -40,7 +44,11 @@ to = "/produits-et-contrats/2026-tisanes-et-aromates/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-oranges-corses/index.html"
-to = "/produits-et-contrats/2026-oranges-corses/"
+to = "/produits-et-contrats/2026-oranges/"
+
+[[redirects]]
+from = "/produits-et-contrats/2026-oranges-corses/index.html"
+to = "/produits-et-contrats/2026-oranges/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-brebis/index.html"
@@ -65,6 +73,10 @@ to = "/produits-et-contrats/2026-miel/"
 [[redirects]]
 from = "/producteurs-productrices/2026-legumes/index.html"
 to = "/produits-et-contrats/2026-legumes/"
+
+[[redirects]]
+from = "/produits-et-contrats/2026-agrumes-corses/index.html"
+to = "/produits-et-contrats/2026-agrumes/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-fraises/index.html"
