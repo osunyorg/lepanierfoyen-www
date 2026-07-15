@@ -1,5 +1,12 @@
 h1
     color: $color-accent
+.projects--grid
+    @include media-breakpoint-up(desktop)
+        grid-template-columns: repeat(3, 1fr)
+    .project
+        .media
+            img
+                aspect-ratio: 1
 .projects__page
     .hero
         .container
