@@ -31,6 +31,10 @@ from = "/https:/www.lepanierfoyen.fr/index.php/politique-de-confidentialite/inde
 to = "/politique-de-confidentialite/"
 
 [[redirects]]
+from = "/https:/www.lepanierfoyen.fr/index.php/partenaires/index.html"
+to = "/produits-et-contrats/2026-huile-dolive/"
+
+[[redirects]]
 from = "/producteurs-productrices/2026-kiwis/index.html"
 to = "/produits-et-contrats/2026-kiwis/"
 
