@@ -19,8 +19,16 @@ from = "/producteurs-productrices/2026-porc/index.html"
 to = "/produits-et-contrats/2026-porc/"
 
 [[redirects]]
+from = "/https:/www.lepanierfoyen.fr/index.php/produits-et-contrats/index.html"
+to = "/produits-et-contrats/"
+
+[[redirects]]
 from = "/producteurs-productrices/index.html"
 to = "/produits-et-contrats/"
+
+[[redirects]]
+from = "/https:/www.lepanierfoyen.fr/index.php/politique-de-confidentialite/index.html"
+to = "/politique-de-confidentialite/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-kiwis/index.html"
@@ -93,4 +101,8 @@ to = "/produits-et-contrats/fruits-et-legumes/"
 [[redirects]]
 from = "/producteurs-productrices/2026-creme-de-marron/index.html"
 to = "/produits-et-contrats/2026-creme-de-marron/"
+
+[[redirects]]
+from = "/https:/www.lepanierfoyen.fr/index.php/a-propos/index.html"
+to = "/a-propos/"
 
