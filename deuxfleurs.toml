@@ -27,12 +27,8 @@ from = "/producteurs-productrices/index.html"
 to = "/produits-et-contrats/"
 
 [[redirects]]
-from = "/https:/www.lepanierfoyen.fr/index.php/politique-de-confidentialite/index.html"
+from = "/index.php/politique-de-confidentialite/index.html"
 to = "/politique-de-confidentialite/"
-
-[[redirects]]
-from = "/https:/www.lepanierfoyen.fr/index.php/partenaires/index.html"
-to = "/produits-et-contrats/2026-huile-dolive/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-kiwis/index.html"
@@ -71,6 +67,10 @@ from = "/producteurs-productrices/2026-pain/index.html"
 to = "/produits-et-contrats/2026-pain/"
 
 [[redirects]]
+from = "/index.php/a-propos/index.html"
+to = "/a-propos/"
+
+[[redirects]]
 from = "/producteurs-productrices/2026-clementines-de-noel/index.html"
 to = "/produits-et-contrats/2026-clementines-de-noel/"
 
@@ -81,6 +81,10 @@ to = "/produits-et-contrats/2026-fromage-de-chevre/"
 [[redirects]]
 from = "/producteurs-productrices/2026-miel/index.html"
 to = "/produits-et-contrats/2026-miel/"
+
+[[redirects]]
+from = "/index.php/partenaires/index.html"
+to = "/produits-et-contrats/2026-huile-dolive/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-legumes/index.html"
@@ -105,8 +109,4 @@ to = "/produits-et-contrats/fruits-et-legumes/"
 [[redirects]]
 from = "/producteurs-productrices/2026-creme-de-marron/index.html"
 to = "/produits-et-contrats/2026-creme-de-marron/"
-
-[[redirects]]
-from = "/https:/www.lepanierfoyen.fr/index.php/a-propos/index.html"
-to = "/a-propos/"
 
