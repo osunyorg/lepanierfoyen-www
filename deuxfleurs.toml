@@ -27,7 +27,7 @@ from = "/index.php/produits-et-contrats/index.html"
 to = "/produits-et-contrats/"
 
 [[redirects]]
-from = "/producteurs-productrices/index.html"
+from = "/produits-contrats/index.html"
 to = "/produits-et-contrats/"
 
 [[redirects]]
