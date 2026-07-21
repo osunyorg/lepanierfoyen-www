@@ -10,6 +10,15 @@ items:
   descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
+- title: Numérique responsable
+  slug: numerique-responsable
+  target: "/numerique-responsable/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/numerique-responsable"
+  file: content/fr/pages/numerique-responsable/_index.html
 - title: Plan du site
   slug: plan-du-site
   target: "/plan-du-site/"
