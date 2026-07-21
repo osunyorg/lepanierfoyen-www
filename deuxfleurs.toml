@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/produits-et-contrats/fruits-et-legumes/index.html"
+to = "/produits-et-contrats/fruits/"
+
+[[redirects]]
 from = "/producteurs-productrices/2026-porc/index.html"
 to = "/produits-et-contrats/2026-porc/"
 
@@ -41,6 +45,10 @@ to = "/produits-et-contrats/2026-agrumes/"
 [[redirects]]
 from = "/producteurs-productrices/2026-pommes/index.html"
 to = "/produits-et-contrats/2026-pommes/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/numerique-responsable/"
 
 [[redirects]]
 from = "/projets/index.html"
@@ -101,10 +109,6 @@ to = "/contact/"
 [[redirects]]
 from = "/producteurs-productrices/2026-fraises/index.html"
 to = "/produits-et-contrats/2026-fraises/"
-
-[[redirects]]
-from = "/produits-et-contrats/fruits/index.html"
-to = "/produits-et-contrats/fruits-et-legumes/"
 
 [[redirects]]
 from = "/producteurs-productrices/2026-creme-de-marron/index.html"
