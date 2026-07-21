@@ -99,6 +99,10 @@ from = "/index.php/partenaires/index.html"
 to = "/produits-et-contrats/2026-huile-dolive/"
 
 [[redirects]]
+from = "/produits-et-contrats/viande/index.html"
+to = "/produits-et-contrats/viandes/"
+
+[[redirects]]
 from = "/producteurs-productrices/2026-legumes/index.html"
 to = "/produits-et-contrats/2026-legumes/"
 
