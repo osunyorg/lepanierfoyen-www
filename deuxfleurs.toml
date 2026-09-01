@@ -55,6 +55,10 @@ from = "/accessibilite/index.html"
 to = "/responsabilites-numeriques/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/bulletin-adhesion-panier-foyen-2025-2026pdf/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/produits-et-contrats/"
 
